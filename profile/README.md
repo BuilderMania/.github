@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="BuilderMania Banner" width="100%" />
+  <img src="./Bannière Landing_Page.png" alt="BuilderMania Banner" width="100%" />
 </p>
 
 **BuilderMania** est une plateforme web collaborative qui permet de mettre en relation des développeurs freelances, des startups et des particuliers porteurs de projets.  
